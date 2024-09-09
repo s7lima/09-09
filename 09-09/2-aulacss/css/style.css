@@ -1,0 +1,16 @@
+/* 4 - External css */
+
+p{
+    color: green;
+    font-size: 40px; 
+}
+
+ .paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+
+/* body {
+    background-color: aqua;
+} */
